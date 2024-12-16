@@ -1,5 +1,5 @@
 The guide to set up your WordPress site, connect Mailchimp for newsletters, and use Amelia for appointment bookings:
-
+---------------------------------------------------------------------------------------
 
 Step 1: Set Up XAMPP for WordPress
 Install XAMPP:
@@ -12,7 +12,7 @@ Go to phpMyAdmin in your browser.
 Click the Databases tab, name your database law_solutions, and hit Create.
 
 
-
+-----------------------------------------------------------------------------------------------------
 
 
 Step 2: Install WordPress
@@ -30,7 +30,7 @@ Username: root
 Password: (leave it blank).
 Click through to complete the installation and set your admin username and password.
 
-
+--------------------------------------------------------------------------------------------
 
 
 Step 3: Add a Theme and Essential Plugins
@@ -44,7 +44,7 @@ Navigate to Plugins > Add New and install:
 Mailchimp for WordPress (for newsletters).
 Amelia (for appointment bookings).
 
-
+------------------------------------------------------------------------------------------------------------------
 
 
 Step 4: Set Up Mailchimp for Newsletters
@@ -62,7 +62,7 @@ Customize the fields (e.g., Name, Email) and save.
 Add the generated shortcode (e.g., [mc4wp_form id="123"]) to any page or widget to display the form.
 
 
-
+--------------------------------------------------------------------------------------------------------------
 
 Step 5: Use Amelia for Appointment Bookings
 Set Up Amelia:
